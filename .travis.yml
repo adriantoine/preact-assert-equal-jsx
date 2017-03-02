@@ -16,6 +16,3 @@ node_js:
 
 script: yarn test
 
-branches:
-  only:
-  - master
